@@ -1,6 +1,6 @@
 <h1 align="center">
 
-ReviOS Playbook📜
+ReviOS Playbook📜 (No Branding)
 
 ---
 
@@ -18,6 +18,10 @@ ReviOS Playbook📜
 </div>
 
 ReviOS is a customized version of Windows, designed to be lightweight, stable, and focused on improving performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [AME Wizard](https://ameliorated.io)🧙.
+
+## ⚠️ Note
+
+This is not an official product of ReviOS. Use this if you don't want to get ReviOS branding after installation. Please do not ask for any issues if you are using this one instead of Official ReviOS Playbook. Please note that use at your own risk. I am not responsible for any damages.
 
 ## ✨ Key Features
 
