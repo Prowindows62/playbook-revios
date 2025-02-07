@@ -49,8 +49,8 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }} # Uses GitHub token for authentication
-          file: "Revi-PB-NoBranding-${{ env.VERSION }}.apbx"
-          asset_name: "Revi-PB-NoBranding-${{ env.VERSION }}.apbx"
+          file: "Revi-PB-${{ env.VERSION }}.apbx"
+          asset_name: "Revi-PB-${{ env.VERSION }}.apbx"
           tag: ${{ env.VERSION }}
           overwrite: true
           release_name: ${{ env.VERSION }}
